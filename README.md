@@ -33,3 +33,16 @@ Via Thunder Client:
 5. Click on 'Send' to make the request.
 
 Happy coding! 🙂
+## Project Features
+- Add campus club members
+- View all members
+- Search members by registration number
+- Update member details
+- Delete members
+
+## Technologies Used
+- HTML
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
